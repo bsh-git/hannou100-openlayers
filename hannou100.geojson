@@ -1,0 +1,2011 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15484664.857667457,
+          4282099.6013312135
+        ]
+      },
+      "properties": {
+        "number": 1,
+        "name": "日向沢の峰",
+        "altitude": "1356",
+        "latitude": "35°51'55\"",
+        "longtitude": "139°06'04\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=3017",
+        "url2": "https://yamap.com/landmarks/9059"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15486303.727948584,
+          4284999.8979859445
+        ]
+      },
+      "properties": {
+        "number": 2,
+        "name": "有間山",
+        "altitude": "1214",
+        "latitude": "35°53'11\"",
+        "longtitude": "139°06'57\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=3986",
+        "url2": "https://yamap.com/landmarks/1704"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15485468.83176763,
+          4283435.168257933
+        ]
+      },
+      "properties": {
+        "number": 3,
+        "name": "仁田山",
+        "altitude": "1211",
+        "latitude": "35°52'30\"",
+        "longtitude": "139°06'30\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=3030",
+        "url2": "https://yamap.com/mountains/5497"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15486829.403321773,
+          4286183.13571834
+        ]
+      },
+      "properties": {
+        "number": 4,
+        "name": "橋小屋の頭",
+        "altitude": "1163",
+        "latitude": "35°53'42\"",
+        "longtitude": "139°07'14\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=3021",
+        "url2": "https://yamap.com/mountains/5556"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15486643.870837118,
+          4286946.583204109
+        ]
+      },
+      "properties": {
+        "number": 5,
+        "name": "ヤシンタイの頭",
+        "altitude": "1100",
+        "latitude": "35°54'02\"",
+        "longtitude": "139°07'08\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=4040",
+        "url2": "https://yamap.com/landmarks/81608"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15486149.117544701,
+          4282061.44468384
+        ]
+      },
+      "properties": {
+        "number": 6,
+        "name": "山ナシ山",
+        "altitude": "1087",
+        "latitude": "35°51'54\"",
+        "longtitude": "139°06'52\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=22581",
+        "url2": "https://yamap.com/mountains/5540"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15486180.039625477,
+          4287442.852805955
+        ]
+      },
+      "properties": {
+        "number": 7,
+        "name": "滝入山",
+        "altitude": "1071",
+        "latitude": "35°54'15\"",
+        "longtitude": "139°06'53\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=4039",
+        "url2": "https://yamap.com/landmarks/81607"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15487880.754068153,
+          4291910.298746635
+        ]
+      },
+      "properties": {
+        "number": 8,
+        "name": "武川岳",
+        "altitude": "1052",
+        "latitude": "35°56'12\"",
+        "longtitude": "139°07'48\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=3138",
+        "url2": "https://yamap.com/mountains/14965"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15488344.58527979,
+          4286183.13571834
+        ]
+      },
+      "properties": {
+        "number": 9,
+        "name": "蕨山",
+        "altitude": "1033",
+        "latitude": "35°53'42\"",
+        "longtitude": "139°08'03\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=3033",
+        "url2": "https://yamap.com/mountains/4131"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15486458.338352462,
+          4287251.9772024695
+        ]
+      },
+      "properties": {
+        "number": 10,
+        "name": "ショウジクボの頭",
+        "altitude": "1030",
+        "latitude": "35°54'10\"",
+        "longtitude": "139°07'02\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=49018",
+        "url2": "https://yamap.com/landmarks/158400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15488251.819037464,
+          4291375.635857373
+        ]
+      },
+      "properties": {
+        "number": 11,
+        "name": "前武川岳",
+        "altitude": "1003",
+        "latitude": "35°55'58\"",
+        "longtitude": "139°08'00\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=7327",
+        "url2": "https://yamap.com/mountains/8641"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15490663.741337985,
+          4281183.878701941
+        ]
+      },
+      "properties": {
+        "number": 12,
+        "name": "棒ノ折山(棒の嶺)",
+        "altitude": "969",
+        "latitude": "35°51'31\"",
+        "longtitude": "139°09'18\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=2178",
+        "url2": "https://yamap.com/mountains/255"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15488189.974875914,
+          4281985.131790299
+        ]
+      },
+      "properties": {
+        "number": 13,
+        "name": "長尾丸山",
+        "altitude": "958",
+        "latitude": "35°51'52\"",
+        "longtitude": "139°07'58\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=3024",
+        "url2": "https://yamap.com/mountains/16248"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15489767.000995483,
+          4281756.196319221
+        ]
+      },
+      "properties": {
+        "number": 14,
+        "name": "槙ノ尾山",
+        "altitude": "945",
+        "latitude": "35°51'46\"",
+        "longtitude": "139°08'49\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=3027",
+        "url2": "https://yamap.com/landmarks/89723"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15489272.247703068,
+          4285648.754355783
+        ]
+      },
+      "properties": {
+        "number": 15,
+        "name": "藤棚山",
+        "altitude": "920",
+        "latitude": "35°53'28\"",
+        "longtitude": "139°08'33\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=3639",
+        "url2": "https://yamap.com/mountains/8642"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15494127.014384884,
+          4296073.931317227
+        ]
+      },
+      "properties": {
+        "number": 16,
+        "name": "ツツジ山",
+        "altitude": "879",
+        "latitude": "35°58'01\"",
+        "longtitude": "139°11'10\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=10058",
+        "url2": "https://yamap.com/mountains/8871"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15493292.118203936,
+          4296452.175183363
+        ]
+      },
+      "properties": {
+        "number": 17,
+        "name": "横見山(二子山)",
+        "altitude": "860",
+        "latitude": "35°58'10.9\"",
+        "longtitude": "139°10'43\"",
+        "url2": "https://yamap.com/landmarks/99785"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15491282.182953503,
+          4290535.504452581
+        ]
+      },
+      "properties": {
+        "number": 18,
+        "name": "伊豆ヶ岳",
+        "altitude": "851",
+        "latitude": "35°55'36\"",
+        "longtitude": "139°09'38\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=461",
+        "url2": "https://yamap.com/mountains/113"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15491591.403761262,
+          4280115.632962557
+        ]
+      },
+      "properties": {
+        "number": 19,
+        "name": "黒山",
+        "altitude": "842",
+        "latitude": "35°51'03\"",
+        "longtitude": "139°09'48\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=2167",
+        "url2": "https://yamap.com/landmarks/1726"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15494065.170223337,
+          4295500.859651218
+        ]
+      },
+      "properties": {
+        "number": 20,
+        "name": "大都津路山",
+        "altitude": "831",
+        "latitude": "35°57'46\"",
+        "longtitude": "139°11'08\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=12965",
+        "url2": "https://yamap.com/landmarks/159897"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15491158.4946304,
+          4290000.9091825625
+        ]
+      },
+      "properties": {
+        "number": 21,
+        "name": "古御岳",
+        "altitude": "830",
+        "latitude": "35°55'22\"",
+        "longtitude": "139°09'34\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=3589",
+        "url2": "https://yamap.com/mountains/15096"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15497064.612058595,
+          4294584.007874892
+        ]
+      },
+      "properties": {
+        "number": 22,
+        "name": "飯盛山",
+        "altitude": "795",
+        "latitude": "35°57'22\"",
+        "longtitude": "139°12'45\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=10057",
+        "url2": "https://yamap.com/landmarks/74806"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15497466.599108683,
+          4279695.993662285
+        ]
+      },
+      "properties": {
+        "number": 23,
+        "name": "大仁田山",
+        "altitude": "782",
+        "latitude": "35°50'52\"",
+        "longtitude": "139°12'58\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=3587",
+        "url2": "https://yamap.com/mountains/16250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15491498.637518933,
+          4293170.679646857
+        ]
+      },
+      "properties": {
+        "number": 24,
+        "name": "正丸山",
+        "altitude": "780",
+        "latitude": "35°56'45\"",
+        "longtitude": "139°09'45\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=3082",
+        "url2": "https://yamap.com/mountains/4817"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15490138.065964794,
+          4284465.574733385
+        ]
+      },
+      "properties": {
+        "number": 25,
+        "name": "大ヨケの頭",
+        "altitude": "771",
+        "latitude": "35°52'57\"",
+        "longtitude": "139°09'01\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=3637",
+        "url2": "https://yamap.com/landmarks/84309"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15493922.928651767,
+          4295313.662792537
+        ]
+      },
+      "properties": {
+        "number": 26,
+        "name": "小都津路山",
+        "altitude": "770",
+        "latitude": "35°57'41.1\"",
+        "longtitude": "139°11'3.4\"",
+        "url2": "https://yamap.com/landmarks/159896"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15491251.26087273,
+          4290917.374313978
+        ]
+      },
+      "properties": {
+        "number": 27,
+        "name": "五輪山",
+        "altitude": "770",
+        "latitude": "35°55'46\"",
+        "longtitude": "139°09'37\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=7709",
+        "url2": "https://yamap.com/mountains/15095"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15491591.403761262,
+          4293590.839104143
+        ]
+      },
+      "properties": {
+        "number": 28,
+        "name": "川越山",
+        "altitude": "766",
+        "latitude": "35°56'56\"",
+        "longtitude": "139°09'48\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=3081",
+        "url2": "https://yamap.com/mountains/16253"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15490230.832207121,
+          4285801.43206667
+        ]
+      },
+      "properties": {
+        "number": 29,
+        "name": "大遠見山",
+        "altitude": "733",
+        "latitude": "35°53'32\"",
+        "longtitude": "139°09'04\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=18129",
+        "url2": "https://yamap.com/mountains/2424"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15491189.416711178,
+          4285610.585262839
+        ]
+      },
+      "properties": {
+        "number": 30,
+        "name": "西平山",
+        "altitude": "732",
+        "latitude": "35°53'27\"",
+        "longtitude": "139°09'35\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=18130",
+        "url2": "https://yamap.com/mountains/8643"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15491189.416711178,
+          4291413.825191483
+        ]
+      },
+      "properties": {
+        "number": 31,
+        "name": "大蔵山",
+        "altitude": "720",
+        "latitude": "35°55'59\"",
+        "longtitude": "139°09'35\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=41768",
+        "url2": "https://yamap.com/mountains/14977"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15491096.650468847,
+          4291604.773874881
+        ]
+      },
+      "properties": {
+        "number": 32,
+        "name": "小高山",
+        "altitude": "700",
+        "latitude": "35°56'04\"",
+        "longtitude": "139°09'32\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=7711",
+        "url2": "https://yamap.com/mountains/14555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15491436.793357383,
+          4288893.616883664
+        ]
+      },
+      "properties": {
+        "number": 33,
+        "name": "高畑山",
+        "altitude": "695",
+        "latitude": "35°54'53\"",
+        "longtitude": "139°09'43\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=4235",
+        "url2": "https://yamap.com/mountains/16256"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15493632.26109247,
+          4279123.784308908
+        ]
+      },
+      "properties": {
+        "number": 34,
+        "name": "長久保山",
+        "altitude": "686",
+        "latitude": "35°50'37\"",
+        "longtitude": "139°10'54\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=13642",
+        "url2": "https://yamap.com/mountains/3735"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15492148.001215227,
+          4284160.258939855
+        ]
+      },
+      "properties": {
+        "number": 35,
+        "name": "金比羅山",
+        "altitude": "660",
+        "latitude": "35°52'49\"",
+        "longtitude": "139°10'06\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=4022",
+        "url2": "https://yamap.com/mountains/16245"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15494003.326061783,
+          4287824.61406285
+        ]
+      },
+      "properties": {
+        "number": 36,
+        "name": "愛宕山",
+        "altitude": "650",
+        "latitude": "35°54'25\"",
+        "longtitude": "139°11'06\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=59390",
+        "url2": "https://yamap.com/landmarks/76952"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15498023.19656265,
+          4292788.730602496
+        ]
+      },
+      "properties": {
+        "number": 37,
+        "name": "丸山",
+        "altitude": "640",
+        "latitude": "35°56'35\"",
+        "longtitude": "139°13'16\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=40348",
+        "url2": "https://yamap.com/landmarks/80999"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15494436.235192645,
+          4287862.790925592
+        ]
+      },
+      "properties": {
+        "number": 38,
+        "name": "子の山(子の権現)",
+        "altitude": "630",
+        "latitude": "35°54'26\"",
+        "longtitude": "139°11'20\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=4239",
+        "url2": "https://yamap.com/mountains/6022"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15494374.391031094,
+          4286335.820929091
+        ]
+      },
+      "properties": {
+        "number": 39,
+        "name": "豆口山",
+        "altitude": "629",
+        "latitude": "35°53'46\"",
+        "longtitude": "139°11'18\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=24054",
+        "url2": "https://yamap.com/mountains/16327"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15492117.079134451,
+          4288244.566924163
+        ]
+      },
+      "properties": {
+        "number": 40,
+        "name": "中ノ沢ノ頭",
+        "altitude": "622",
+        "latitude": "35°54'36\"",
+        "longtitude": "139°10'05\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=4236",
+        "url2": "https://yamap.com/mountains/16283"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15494590.845596528,
+          4287633.73175934
+        ]
+      },
+      "properties": {
+        "number": 41,
+        "name": "阿宇山",
+        "altitude": "620",
+        "latitude": "35°54'20\"",
+        "longtitude": "139°11'25\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=60009",
+        "url2": "https://yamap.com/mountains/14813"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15494900.066404285,
+          4294469.4068441475
+        ]
+      },
+      "properties": {
+        "number": 42,
+        "name": "松尾山",
+        "altitude": "620",
+        "latitude": "35°57'19\"",
+        "longtitude": "139°11'35\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=25527",
+        "url2": "https://yamap.com/mountains/9985"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15497992.274481874,
+          4292063.064403521
+        ]
+      },
+      "properties": {
+        "number": 43,
+        "name": "虚空蔵山",
+        "altitude": "618",
+        "latitude": "35°56'16\"",
+        "longtitude": "139°13'15\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=21204",
+        "url2": "https://yamap.com/mountains/9984"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15492302.611619107,
+          4288053.677249557
+        ]
+      },
+      "properties": {
+        "number": 44,
+        "name": "雨乞山",
+        "altitude": "590",
+        "latitude": "35°54'31\"",
+        "longtitude": "139°10'11\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=27688",
+        "url2": "https://yamap.com/landmarks/113143"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15501733.846255759,
+          4290306.388974816
+        ]
+      },
+      "properties": {
+        "number": 45,
+        "name": "越上山",
+        "altitude": "566",
+        "latitude": "35°55'30\"",
+        "longtitude": "139°15'16\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=3308",
+        "url2": "https://yamap.com/mountains/7717"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15494745.456000404,
+          4284503.739809895
+        ]
+      },
+      "properties": {
+        "number": 46,
+        "name": "滝ノ入山",
+        "altitude": "560",
+        "latitude": "35°52'58\"",
+        "longtitude": "139°11'30\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=18017",
+        "url2": "https://yamap.com/mountains/14687"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15496752.29904276,
+          4292288.397667315
+        ]
+      },
+      "properties": {
+        "number": 47,
+        "name": "日影山",
+        "altitude": "555",
+        "latitude": "35°56'21.9\"",
+        "longtitude": "139°12'34.9\"",
+        "url2": "https://yamap.com/mountains/14806"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15495302.05345437,
+          4282862.762366318
+        ]
+      },
+      "properties": {
+        "number": 48,
+        "name": "樽抜山",
+        "altitude": "554",
+        "latitude": "35°52'15\"",
+        "longtitude": "139°11'48\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=5097",
+        "url2": "https://yamap.com/landmarks/85372"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15492797.364911523,
+          4293094.28876387
+        ]
+      },
+      "properties": {
+        "number": 49,
+        "name": "松茸山",
+        "altitude": "550",
+        "latitude": "35°56'43\"",
+        "longtitude": "139°10'27\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=35093",
+        "url2": "https://yamap.com/landmarks/163570"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15496712.100337751,
+          4293136.303683048
+        ]
+      },
+      "properties": {
+        "number": 50,
+        "name": "黒仁田山",
+        "altitude": "540",
+        "latitude": "35°56'44.1\"",
+        "longtitude": "139°12'33.6\"",
+        "url2": "https://yamap.com/landmarks/163618"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15493570.41693092,
+          4288779.075840393
+        ]
+      },
+      "properties": {
+        "number": 51,
+        "name": "吹上山",
+        "altitude": "540",
+        "latitude": "35°54'50\"",
+        "longtitude": "139°10'52\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=26234",
+        "url2": "https://yamap.com/landmarks/164180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15495425.741777476,
+          4287290.152055185
+        ]
+      },
+      "properties": {
+        "number": 52,
+        "name": "久久戸山",
+        "altitude": "538",
+        "latitude": "35°54'11\"",
+        "longtitude": "139°11'52\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=26537",
+        "url2": "https://yamap.com/mountains/5357"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15496508.01460463,
+          4286679.370489114
+        ]
+      },
+      "properties": {
+        "number": 53,
+        "name": "高反山",
+        "altitude": "532",
+        "latitude": "35°53'55\"",
+        "longtitude": "139°12'27\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=26059",
+        "url2": "https://yamap.com/mountains/5998"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15496044.18339299,
+          4286412.16433812
+        ]
+      },
+      "properties": {
+        "number": 54,
+        "name": "堂平山",
+        "altitude": "520",
+        "latitude": "35°53'48\"",
+        "longtitude": "139°12'12\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=20607",
+        "url2": "https://yamap.com/mountains/5330"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15495487.585939026,
+          4285457.9102301225
+        ]
+      },
+      "properties": {
+        "number": 55,
+        "name": "天王山",
+        "altitude": "513",
+        "latitude": "35°53'23\"",
+        "longtitude": "139°11'54\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=4462",
+        "url2": "https://yamap.com/mountains/6042"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15497466.599108683,
+          4279695.993662285
+        ]
+      },
+      "properties": {
+        "number": 56,
+        "name": "大仁田山",
+        "altitude": "505",
+        "latitude": "35°50'52\"",
+        "longtitude": "139°12'58\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=3587",
+        "url2": "https://yamap.com/mountains/16250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15497157.378300924,
+          4279390.811599423
+        ]
+      },
+      "properties": {
+        "number": 57,
+        "name": "大峰山",
+        "altitude": "500",
+        "latitude": "35°50'44\"",
+        "longtitude": "139°12'48\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=37037",
+        "url2": "https://yamap.com/mountains/16658"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15495982.339231439,
+          4293017.898417953
+        ]
+      },
+      "properties": {
+        "number": 58,
+        "name": "オバケ山",
+        "altitude": "500",
+        "latitude": "35°56'41\"",
+        "longtitude": "139°12'10\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=34011",
+        "url2": "https://yamap.com/landmarks/156355"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15499321.92395524,
+          4286603.025204774
+        ]
+      },
+      "properties": {
+        "number": 59,
+        "name": "大高山",
+        "altitude": "493",
+        "latitude": "35°53'53\"",
+        "longtitude": "139°13'58\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=3725",
+        "url2": "https://yamap.com/mountains/5610"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15497033.689977821,
+          4285152.566591793
+        ]
+      },
+      "properties": {
+        "number": 60,
+        "name": "南沢山",
+        "altitude": "466",
+        "latitude": "35°53'15\"",
+        "longtitude": "139°12'44\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=20608",
+        "url2": "https://yamap.com/mountains/2480"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15501081.390351389,
+          4288698.897827997
+        ]
+      },
+      "properties": {
+        "number": 61,
+        "name": "宝山(後口山)",
+        "altitude": "448",
+        "latitude": "35°54'47.9\"",
+        "longtitude": "139°14'54.9\"",
+        "url2": "https://yamap.com/landmarks/164211"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15501146.32672102,
+          4285038.064936585
+        ]
+      },
+      "properties": {
+        "number": 62,
+        "name": "天覚山",
+        "altitude": "445",
+        "latitude": "35°53'12\"",
+        "longtitude": "139°14'57\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=390",
+        "url2": "https://yamap.com/mountains/2900"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15496415.248362303,
+          4288893.616883664
+        ]
+      },
+      "properties": {
+        "number": 63,
+        "name": "吉田山",
+        "altitude": "445",
+        "latitude": "35°54'53\"",
+        "longtitude": "139°12'24\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=5846",
+        "url2": "https://yamap.com/mountains/5971"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15494992.832646614,
+          4290230.018221988
+        ]
+      },
+      "properties": {
+        "number": 64,
+        "name": "本陣山",
+        "altitude": "442",
+        "latitude": "35°55'28\"",
+        "longtitude": "139°11'38\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=4237",
+        "url2": "https://yamap.com/mountains/5331"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15497992.274481874,
+          4283397.006928608
+        ]
+      },
+      "properties": {
+        "number": 65,
+        "name": "登戸",
+        "altitude": "435",
+        "latitude": "35°52'29\"",
+        "longtitude": "139°13'15\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=5092",
+        "url2": "https://yamap.com/landmarks/1735"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15495023.754727388,
+          4289313.611032438
+        ]
+      },
+      "properties": {
+        "number": 66,
+        "name": "イモリ山",
+        "altitude": "430",
+        "latitude": "35°55'04\"",
+        "longtitude": "139°11'39\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=4238",
+        "url2": "https://yamap.com/mountains/3867"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15494250.70270799,
+          4290879.186724134
+        ]
+      },
+      "properties": {
+        "number": 67,
+        "name": "峰ノ山",
+        "altitude": "426",
+        "latitude": "35°55'45\"",
+        "longtitude": "139°11'14\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=59281",
+        "url2": "https://yamap.com/mountains/9988"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15496733.745794294,
+          4281672.254519358
+        ]
+      },
+      "properties": {
+        "number": 68,
+        "name": "峯山",
+        "altitude": "420",
+        "latitude": "35°51'43.8\"",
+        "longtitude": "139°12'34.3\"",
+        "url2": "https://yamap.com/mountains/1151"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15496260.637958424,
+          4290497.318204267
+        ]
+      },
+      "properties": {
+        "number": 70,
+        "name": "坂石山",
+        "altitude": "410",
+        "latitude": "35°55'35\"",
+        "longtitude": "139°12'19\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=31152",
+        "url2": "https://yamap.com/landmarks/164996"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15495332.975535149,
+          4291337.44665745
+        ]
+      },
+      "properties": {
+        "number": 71,
+        "name": "天久保山",
+        "altitude": "403",
+        "latitude": "35°55'57\"",
+        "longtitude": "139°11'49\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=25529",
+        "url2": "https://yamap.com/mountains/5479"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15500280.508459292,
+          4289084.5213037925
+        ]
+      },
+      "properties": {
+        "number": 72,
+        "name": "育代山(旭嶽)",
+        "altitude": "399",
+        "latitude": "35°54'58\"",
+        "longtitude": "139°14'29\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=49687",
+        "url2": "https://yamap.com/landmarks/164997"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15497559.365351012,
+          4285381.573517174
+        ]
+      },
+      "properties": {
+        "number": 73,
+        "name": "湯ノ花山",
+        "altitude": "389",
+        "latitude": "35°53'21\"",
+        "longtitude": "139°13'01\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=20609",
+        "url2": "https://yamap.com/mountains/7803"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15498579.794016618,
+          4285267.069451973
+        ]
+      },
+      "properties": {
+        "number": 74,
+        "name": "藤光寺山",
+        "altitude": "388",
+        "latitude": "35°53'18\"",
+        "longtitude": "139°13'34\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=20612",
+        "url2": "https://yamap.com/mountains/6035"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15498734.404420495,
+          4282824.603043815
+        ]
+      },
+      "properties": {
+        "number": 75,
+        "name": "周助山",
+        "altitude": "383",
+        "latitude": "35°52'14\"",
+        "longtitude": "139°13'39\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=5096",
+        "url2": "https://yamap.com/mountains/14007"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15497373.832866356,
+          4282443.017176055
+        ]
+      },
+      "properties": {
+        "number": 76,
+        "name": "龍谷山",
+        "altitude": "382",
+        "latitude": "35°52'04\"",
+        "longtitude": "139°12'55\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=21384",
+        "url2": "https://yamap.com/mountains/1712"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15498456.105693512,
+          4289008.159133529
+        ]
+      },
+      "properties": {
+        "number": 77,
+        "name": "中尾山",
+        "altitude": "369",
+        "latitude": "35°54'56\"",
+        "longtitude": "139°13'30\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=26436",
+        "url2": "https://yamap.com/landmarks/164998"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15495246.393708976,
+          4292143.2672330495
+        ]
+      },
+      "properties": {
+        "number": 78,
+        "name": "秋葉山",
+        "altitude": "360",
+        "latitude": "35°56'18.1\"",
+        "longtitude": "139°11'46.2\"",
+        "url2": "https://yamap.com/landmarks/163693"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15498796.248582048,
+          4287633.73175934
+        ]
+      },
+      "properties": {
+        "number": 79,
+        "name": "龍崖山",
+        "altitude": "354",
+        "latitude": "35°54'20\"",
+        "longtitude": "139°13'41\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=26626",
+        "url2": "https://yamap.com/mountains/1445"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15503991.158152403,
+          4286564.852763539
+        ]
+      },
+      "properties": {
+        "number": 80,
+        "name": "深沢山東峰",
+        "altitude": "350",
+        "latitude": "35°53'52\"",
+        "longtitude": "139°16'29\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=5302",
+        "url2": "https://yamap.com/landmarks/85067"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15497154.286092846,
+          4281634.099369734
+        ]
+      },
+      "properties": {
+        "number": 81,
+        "name": "加久良山",
+        "altitude": "348",
+        "latitude": "35°51'42.8\"",
+        "longtitude": "139°12'47.9\"",
+        "url2": "https://yamap.com/mountains/6999"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15499569.300601445,
+          4283625.9769116575
+        ]
+      },
+      "properties": {
+        "number": 82,
+        "name": "高山",
+        "altitude": "330",
+        "latitude": "35°52'35\"",
+        "longtitude": "139°14'06\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=26008",
+        "url2": "https://yamap.com/landmarks/85107"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15502290.44370973,
+          4280497.137268042
+        ]
+      },
+      "properties": {
+        "number": 83,
+        "name": "大高谷山",
+        "altitude": "325",
+        "latitude": "35°51'13\"",
+        "longtitude": "139°15'34\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=22246",
+        "url2": "https://yamap.com/mountains/14105"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15500125.89805541,
+          4284694.567200293
+        ]
+      },
+      "properties": {
+        "number": 84,
+        "name": "ゼンゴ山",
+        "altitude": "325",
+        "latitude": "35°53'03\"",
+        "longtitude": "139°14'24\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=20613",
+        "url2": "https://yamap.com/mountains/9990"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15503001.651567573,
+          4287022.93089983
+        ]
+      },
+      "properties": {
+        "number": 85,
+        "name": "橋本山",
+        "altitude": "320",
+        "latitude": "35°54'04\"",
+        "longtitude": "139°15'57\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=3319",
+        "url2": "https://yamap.com/mountains/3717"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15501733.846255759,
+          4287099.2791314535
+        ]
+      },
+      "properties": {
+        "number": 86,
+        "name": "虎秀山",
+        "altitude": "320",
+        "latitude": "35°54'06\"",
+        "longtitude": "139°15'16\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=17735",
+        "url2": "https://yamap.com/landmarks/164999"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15503805.625667747,
+          4286373.992566631
+        ]
+      },
+      "properties": {
+        "number": 87,
+        "name": "深沢山西峰",
+        "altitude": "313",
+        "latitude": "35°53'47\"",
+        "longtitude": "139°16'23\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=17929",
+        "url2": "https://yamap.com/landmarks/87939"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15500435.118863173,
+          4283397.006928608
+        ]
+      },
+      "properties": {
+        "number": 88,
+        "name": "天神山",
+        "altitude": "307",
+        "latitude": "35°52'29\"",
+        "longtitude": "139°14'34\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=26009",
+        "url2": "https://yamap.com/mountains/13338"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15504485.911444815,
+          4286488.508282928
+        ]
+      },
+      "properties": {
+        "number": 89,
+        "name": "五常山",
+        "altitude": "305",
+        "latitude": "35°53'50\"",
+        "longtitude": "139°16'45\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=13797",
+        "url2": "https://yamap.com/mountains/9993"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15504269.456879385,
+          4280802.350335998
+        ]
+      },
+      "properties": {
+        "number": 90,
+        "name": "柏木山",
+        "altitude": "303",
+        "latitude": "35°51'21\"",
+        "longtitude": "139°16'38\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=21326",
+        "url2": "https://yamap.com/mountains/1622"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15503712.85942542,
+          4284427.409790731
+        ]
+      },
+      "properties": {
+        "number": 92,
+        "name": "釜戸山",
+        "altitude": "293",
+        "latitude": "35°52'56\"",
+        "longtitude": "139°16'20\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=4850",
+        "url2": "https://yamap.com/landmarks/83045"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15501300.937124899,
+          4283091.721110675
+        ]
+      },
+      "properties": {
+        "number": 93,
+        "name": "堂西山",
+        "altitude": "291",
+        "latitude": "35°52'21\"",
+        "longtitude": "139°15'02\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=26010",
+        "url2": "https://yamap.com/mountains/5595"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15501517.391690329,
+          4279390.811599423
+        ]
+      },
+      "properties": {
+        "number": 94,
+        "name": "間野富士山",
+        "altitude": "290",
+        "latitude": "35°50'44\"",
+        "longtitude": "139°15'09\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=17167",
+        "url2": "https://yamap.com/landmarks/103347"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15498177.80696653,
+          4282175.915027182
+        ]
+      },
+      "properties": {
+        "number": 95,
+        "name": "久保山",
+        "altitude": "286",
+        "latitude": "35°51'57\"",
+        "longtitude": "139°13'21\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=47902",
+        "url2": "https://yamap.com/mountains/2367"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15504764.2101718,
+          4283168.041762402
+        ]
+      },
+      "properties": {
+        "number": 97,
+        "name": "永田山",
+        "altitude": "277",
+        "latitude": "35°52'23\"",
+        "longtitude": "139°16'54\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=5931",
+        "url2": "https://yamap.com/landmarks/82657"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15502816.119082915,
+          4285228.901698024
+        ]
+      },
+      "properties": {
+        "number": 98,
+        "name": "屋船山",
+        "altitude": "277",
+        "latitude": "35°53'17\"",
+        "longtitude": "139°15'51\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=11849",
+        "url2": "https://yamap.com/mountains/20136"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15504516.833525594,
+          4285725.092943402
+        ]
+      },
+      "properties": {
+        "number": 100,
+        "name": "長尾根山",
+        "altitude": "273",
+        "latitude": "35°53'30\"",
+        "longtitude": "139°16'46\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=13796",
+        "url2": "https://yamap.com/mountains/9992"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15506557.690856803,
+          4282481.175160901
+        ]
+      },
+      "properties": {
+        "number": 101,
+        "name": "多峯主山",
+        "altitude": "271",
+        "latitude": "35°52'05\"",
+        "longtitude": "139°17'52\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=4544",
+        "url2": "https://yamap.com/mountains/2898"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15504238.534798611,
+          4283168.041762402
+        ]
+      },
+      "properties": {
+        "number": 102,
+        "name": "久須美山",
+        "altitude": "260",
+        "latitude": "35°52'23\"",
+        "longtitude": "139°16'37\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=60418",
+        "url2": "https://yamap.com/mountains/2286"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15504145.768556286,
+          4286106.793916582
+        ]
+      },
+      "properties": {
+        "number": 103,
+        "name": "水晶山",
+        "altitude": "250",
+        "latitude": "35°53'40\"",
+        "longtitude": "139°16'34\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=5303",
+        "url2": "https://yamap.com/mountains/4867"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15503960.23607163,
+          4285572.416303803
+        ]
+      },
+      "properties": {
+        "number": 104,
+        "name": "愛宕山",
+        "altitude": "250",
+        "latitude": "35°53'26\"",
+        "longtitude": "139°16'28\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=5301",
+        "url2": "https://yamap.com/landmarks/85063"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15505908.32716051,
+          4280726.046266987
+        ]
+      },
+      "properties": {
+        "number": 105,
+        "name": "龍崖山",
+        "altitude": "246",
+        "latitude": "35°51'19\"",
+        "longtitude": "139°17'31\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=19488",
+        "url2": "https://yamap.com/mountains/1445"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15506001.093402836,
+          4280458.986236045
+        ]
+      },
+      "properties": {
+        "number": 107,
+        "name": "燧山",
+        "altitude": "234",
+        "latitude": "35°51'12\"",
+        "longtitude": "139°17'34\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=22588",
+        "url2": "https://yamap.com/mountains/9141"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15506897.83374534,
+          4279772.290514198
+        ]
+      },
+      "properties": {
+        "number": 109,
+        "name": "あさひ山",
+        "altitude": "213",
+        "latitude": "35°50'54\"",
+        "longtitude": "139°18'03\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=52921",
+        "url2": "https://yamap.com/landmarks/85526"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15507547.19744163,
+          4282366.701607631
+        ]
+      },
+      "properties": {
+        "number": 110,
+        "name": "太郎坊",
+        "altitude": "200",
+        "latitude": "35°52'02\"",
+        "longtitude": "139°18'24\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=56058",
+        "url2": "https://yamap.com/landmarks/85943"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15507701.807845512,
+          4281641.730388959
+        ]
+      },
+      "properties": {
+        "number": 111,
+        "name": "天覧山",
+        "altitude": "195",
+        "latitude": "35°51'43\"",
+        "longtitude": "139°18'29\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=4543",
+        "url2": "https://yamap.com/mountains/16254"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15507856.418249393,
+          4281946.9755441295
+        ]
+      },
+      "properties": {
+        "number": 112,
+        "name": "神久山(カグ山)",
+        "altitude": "168",
+        "latitude": "35°51'51\"",
+        "longtitude": "139°18'34\"",
+        "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=56057",
+        "url2": "https://yamap.com/mountains/2591"
+      }
+    }
+  ]
+}

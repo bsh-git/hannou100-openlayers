@@ -15,7 +15,7 @@
         "name": "日向沢の峰",
         "altitude": "1356",
         "latitude": "35°51'55\"",
-        "longtitude": "139°06'04\"",
+        "longitude": "139°06'04\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=3017",
         "url2": "https://yamap.com/landmarks/9059"
       }
@@ -34,7 +34,7 @@
         "name": "有間山",
         "altitude": "1214",
         "latitude": "35°53'11\"",
-        "longtitude": "139°06'57\"",
+        "longitude": "139°06'57\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=3986",
         "url2": "https://yamap.com/landmarks/1704"
       }
@@ -53,7 +53,7 @@
         "name": "仁田山",
         "altitude": "1211",
         "latitude": "35°52'30\"",
-        "longtitude": "139°06'30\"",
+        "longitude": "139°06'30\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=3030",
         "url2": "https://yamap.com/mountains/5497"
       }
@@ -72,7 +72,7 @@
         "name": "橋小屋の頭",
         "altitude": "1163",
         "latitude": "35°53'42\"",
-        "longtitude": "139°07'14\"",
+        "longitude": "139°07'14\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=3021",
         "url2": "https://yamap.com/mountains/5556"
       }
@@ -91,7 +91,7 @@
         "name": "ヤシンタイの頭",
         "altitude": "1100",
         "latitude": "35°54'02\"",
-        "longtitude": "139°07'08\"",
+        "longitude": "139°07'08\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=4040",
         "url2": "https://yamap.com/landmarks/81608"
       }
@@ -110,7 +110,7 @@
         "name": "山ナシ山",
         "altitude": "1087",
         "latitude": "35°51'54\"",
-        "longtitude": "139°06'52\"",
+        "longitude": "139°06'52\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=22581",
         "url2": "https://yamap.com/mountains/5540"
       }
@@ -129,7 +129,7 @@
         "name": "滝入山",
         "altitude": "1071",
         "latitude": "35°54'15\"",
-        "longtitude": "139°06'53\"",
+        "longitude": "139°06'53\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=4039",
         "url2": "https://yamap.com/landmarks/81607"
       }
@@ -148,7 +148,7 @@
         "name": "武川岳",
         "altitude": "1052",
         "latitude": "35°56'12\"",
-        "longtitude": "139°07'48\"",
+        "longitude": "139°07'48\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=3138",
         "url2": "https://yamap.com/mountains/14965"
       }
@@ -167,7 +167,7 @@
         "name": "蕨山",
         "altitude": "1033",
         "latitude": "35°53'42\"",
-        "longtitude": "139°08'03\"",
+        "longitude": "139°08'03\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=3033",
         "url2": "https://yamap.com/mountains/4131"
       }
@@ -186,7 +186,7 @@
         "name": "ショウジクボの頭",
         "altitude": "1030",
         "latitude": "35°54'10\"",
-        "longtitude": "139°07'02\"",
+        "longitude": "139°07'02\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=49018",
         "url2": "https://yamap.com/landmarks/158400"
       }
@@ -205,7 +205,7 @@
         "name": "前武川岳",
         "altitude": "1003",
         "latitude": "35°55'58\"",
-        "longtitude": "139°08'00\"",
+        "longitude": "139°08'00\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=7327",
         "url2": "https://yamap.com/mountains/8641"
       }
@@ -224,7 +224,7 @@
         "name": "棒ノ折山(棒の嶺)",
         "altitude": "969",
         "latitude": "35°51'31\"",
-        "longtitude": "139°09'18\"",
+        "longitude": "139°09'18\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=2178",
         "url2": "https://yamap.com/mountains/255"
       }
@@ -243,7 +243,7 @@
         "name": "長尾丸山",
         "altitude": "958",
         "latitude": "35°51'52\"",
-        "longtitude": "139°07'58\"",
+        "longitude": "139°07'58\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=3024",
         "url2": "https://yamap.com/mountains/16248"
       }
@@ -262,7 +262,7 @@
         "name": "槙ノ尾山",
         "altitude": "945",
         "latitude": "35°51'46\"",
-        "longtitude": "139°08'49\"",
+        "longitude": "139°08'49\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=3027",
         "url2": "https://yamap.com/landmarks/89723"
       }
@@ -281,7 +281,7 @@
         "name": "藤棚山",
         "altitude": "920",
         "latitude": "35°53'28\"",
-        "longtitude": "139°08'33\"",
+        "longitude": "139°08'33\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=3639",
         "url2": "https://yamap.com/mountains/8642"
       }
@@ -300,7 +300,7 @@
         "name": "ツツジ山",
         "altitude": "879",
         "latitude": "35°58'01\"",
-        "longtitude": "139°11'10\"",
+        "longitude": "139°11'10\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=10058",
         "url2": "https://yamap.com/mountains/8871"
       }
@@ -319,7 +319,7 @@
         "name": "横見山(二子山)",
         "altitude": "860",
         "latitude": "35°58'10.9\"",
-        "longtitude": "139°10'43\"",
+        "longitude": "139°10'43\"",
         "url2": "https://yamap.com/landmarks/99785"
       }
     },
@@ -337,7 +337,7 @@
         "name": "伊豆ヶ岳",
         "altitude": "851",
         "latitude": "35°55'36\"",
-        "longtitude": "139°09'38\"",
+        "longitude": "139°09'38\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=461",
         "url2": "https://yamap.com/mountains/113"
       }
@@ -356,7 +356,7 @@
         "name": "黒山",
         "altitude": "842",
         "latitude": "35°51'03\"",
-        "longtitude": "139°09'48\"",
+        "longitude": "139°09'48\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=2167",
         "url2": "https://yamap.com/landmarks/1726"
       }
@@ -375,7 +375,7 @@
         "name": "大都津路山",
         "altitude": "831",
         "latitude": "35°57'46\"",
-        "longtitude": "139°11'08\"",
+        "longitude": "139°11'08\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=12965",
         "url2": "https://yamap.com/landmarks/159897"
       }
@@ -394,7 +394,7 @@
         "name": "古御岳",
         "altitude": "830",
         "latitude": "35°55'22\"",
-        "longtitude": "139°09'34\"",
+        "longitude": "139°09'34\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=3589",
         "url2": "https://yamap.com/mountains/15096"
       }
@@ -413,7 +413,7 @@
         "name": "飯盛山",
         "altitude": "795",
         "latitude": "35°57'22\"",
-        "longtitude": "139°12'45\"",
+        "longitude": "139°12'45\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=10057",
         "url2": "https://yamap.com/landmarks/74806"
       }
@@ -432,7 +432,7 @@
         "name": "大仁田山",
         "altitude": "782",
         "latitude": "35°50'52\"",
-        "longtitude": "139°12'58\"",
+        "longitude": "139°12'58\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=3587",
         "url2": "https://yamap.com/mountains/16250"
       }
@@ -451,7 +451,7 @@
         "name": "正丸山",
         "altitude": "780",
         "latitude": "35°56'45\"",
-        "longtitude": "139°09'45\"",
+        "longitude": "139°09'45\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=3082",
         "url2": "https://yamap.com/mountains/4817"
       }
@@ -470,7 +470,7 @@
         "name": "大ヨケの頭",
         "altitude": "771",
         "latitude": "35°52'57\"",
-        "longtitude": "139°09'01\"",
+        "longitude": "139°09'01\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=3637",
         "url2": "https://yamap.com/landmarks/84309"
       }
@@ -489,7 +489,7 @@
         "name": "小都津路山",
         "altitude": "770",
         "latitude": "35°57'41.1\"",
-        "longtitude": "139°11'3.4\"",
+        "longitude": "139°11'3.4\"",
         "url2": "https://yamap.com/landmarks/159896"
       }
     },
@@ -507,7 +507,7 @@
         "name": "五輪山",
         "altitude": "770",
         "latitude": "35°55'46\"",
-        "longtitude": "139°09'37\"",
+        "longitude": "139°09'37\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=7709",
         "url2": "https://yamap.com/mountains/15095"
       }
@@ -526,7 +526,7 @@
         "name": "川越山",
         "altitude": "766",
         "latitude": "35°56'56\"",
-        "longtitude": "139°09'48\"",
+        "longitude": "139°09'48\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=3081",
         "url2": "https://yamap.com/mountains/16253"
       }
@@ -545,7 +545,7 @@
         "name": "大遠見山",
         "altitude": "733",
         "latitude": "35°53'32\"",
-        "longtitude": "139°09'04\"",
+        "longitude": "139°09'04\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=18129",
         "url2": "https://yamap.com/mountains/2424"
       }
@@ -564,7 +564,7 @@
         "name": "西平山",
         "altitude": "732",
         "latitude": "35°53'27\"",
-        "longtitude": "139°09'35\"",
+        "longitude": "139°09'35\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=18130",
         "url2": "https://yamap.com/mountains/8643"
       }
@@ -583,7 +583,7 @@
         "name": "大蔵山",
         "altitude": "720",
         "latitude": "35°55'59\"",
-        "longtitude": "139°09'35\"",
+        "longitude": "139°09'35\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=41768",
         "url2": "https://yamap.com/mountains/14977"
       }
@@ -602,7 +602,7 @@
         "name": "小高山",
         "altitude": "700",
         "latitude": "35°56'04\"",
-        "longtitude": "139°09'32\"",
+        "longitude": "139°09'32\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=7711",
         "url2": "https://yamap.com/mountains/14555"
       }
@@ -621,7 +621,7 @@
         "name": "高畑山",
         "altitude": "695",
         "latitude": "35°54'53\"",
-        "longtitude": "139°09'43\"",
+        "longitude": "139°09'43\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=4235",
         "url2": "https://yamap.com/mountains/16256"
       }
@@ -640,7 +640,7 @@
         "name": "長久保山",
         "altitude": "686",
         "latitude": "35°50'37\"",
-        "longtitude": "139°10'54\"",
+        "longitude": "139°10'54\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=13642",
         "url2": "https://yamap.com/mountains/3735"
       }
@@ -659,7 +659,7 @@
         "name": "金比羅山",
         "altitude": "660",
         "latitude": "35°52'49\"",
-        "longtitude": "139°10'06\"",
+        "longitude": "139°10'06\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=4022",
         "url2": "https://yamap.com/mountains/16245"
       }
@@ -678,7 +678,7 @@
         "name": "愛宕山",
         "altitude": "650",
         "latitude": "35°54'25\"",
-        "longtitude": "139°11'06\"",
+        "longitude": "139°11'06\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=59390",
         "url2": "https://yamap.com/landmarks/76952"
       }
@@ -697,7 +697,7 @@
         "name": "丸山",
         "altitude": "640",
         "latitude": "35°56'35\"",
-        "longtitude": "139°13'16\"",
+        "longitude": "139°13'16\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=40348",
         "url2": "https://yamap.com/landmarks/80999"
       }
@@ -716,7 +716,7 @@
         "name": "子の山(子の権現)",
         "altitude": "630",
         "latitude": "35°54'26\"",
-        "longtitude": "139°11'20\"",
+        "longitude": "139°11'20\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=4239",
         "url2": "https://yamap.com/mountains/6022"
       }
@@ -735,7 +735,7 @@
         "name": "豆口山",
         "altitude": "629",
         "latitude": "35°53'46\"",
-        "longtitude": "139°11'18\"",
+        "longitude": "139°11'18\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=24054",
         "url2": "https://yamap.com/mountains/16327"
       }
@@ -754,7 +754,7 @@
         "name": "中ノ沢ノ頭",
         "altitude": "622",
         "latitude": "35°54'36\"",
-        "longtitude": "139°10'05\"",
+        "longitude": "139°10'05\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=4236",
         "url2": "https://yamap.com/mountains/16283"
       }
@@ -773,7 +773,7 @@
         "name": "阿宇山",
         "altitude": "620",
         "latitude": "35°54'20\"",
-        "longtitude": "139°11'25\"",
+        "longitude": "139°11'25\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=60009",
         "url2": "https://yamap.com/mountains/14813"
       }
@@ -792,7 +792,7 @@
         "name": "松尾山",
         "altitude": "620",
         "latitude": "35°57'19\"",
-        "longtitude": "139°11'35\"",
+        "longitude": "139°11'35\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=25527",
         "url2": "https://yamap.com/mountains/9985"
       }
@@ -811,7 +811,7 @@
         "name": "虚空蔵山",
         "altitude": "618",
         "latitude": "35°56'16\"",
-        "longtitude": "139°13'15\"",
+        "longitude": "139°13'15\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=21204",
         "url2": "https://yamap.com/mountains/9984"
       }
@@ -830,7 +830,7 @@
         "name": "雨乞山",
         "altitude": "590",
         "latitude": "35°54'31\"",
-        "longtitude": "139°10'11\"",
+        "longitude": "139°10'11\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=27688",
         "url2": "https://yamap.com/landmarks/113143"
       }
@@ -849,7 +849,7 @@
         "name": "越上山",
         "altitude": "566",
         "latitude": "35°55'30\"",
-        "longtitude": "139°15'16\"",
+        "longitude": "139°15'16\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=3308",
         "url2": "https://yamap.com/mountains/7717"
       }
@@ -868,7 +868,7 @@
         "name": "滝ノ入山",
         "altitude": "560",
         "latitude": "35°52'58\"",
-        "longtitude": "139°11'30\"",
+        "longitude": "139°11'30\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=18017",
         "url2": "https://yamap.com/mountains/14687"
       }
@@ -887,7 +887,7 @@
         "name": "日影山",
         "altitude": "555",
         "latitude": "35°56'21.9\"",
-        "longtitude": "139°12'34.9\"",
+        "longitude": "139°12'34.9\"",
         "url2": "https://yamap.com/mountains/14806"
       }
     },
@@ -905,7 +905,7 @@
         "name": "樽抜山",
         "altitude": "554",
         "latitude": "35°52'15\"",
-        "longtitude": "139°11'48\"",
+        "longitude": "139°11'48\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=5097",
         "url2": "https://yamap.com/landmarks/85372"
       }
@@ -924,7 +924,7 @@
         "name": "松茸山",
         "altitude": "550",
         "latitude": "35°56'43\"",
-        "longtitude": "139°10'27\"",
+        "longitude": "139°10'27\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=35093",
         "url2": "https://yamap.com/landmarks/163570"
       }
@@ -943,7 +943,7 @@
         "name": "黒仁田山",
         "altitude": "540",
         "latitude": "35°56'44.1\"",
-        "longtitude": "139°12'33.6\"",
+        "longitude": "139°12'33.6\"",
         "url2": "https://yamap.com/landmarks/163618"
       }
     },
@@ -961,7 +961,7 @@
         "name": "吹上山",
         "altitude": "540",
         "latitude": "35°54'50\"",
-        "longtitude": "139°10'52\"",
+        "longitude": "139°10'52\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=26234",
         "url2": "https://yamap.com/landmarks/164180"
       }
@@ -980,7 +980,7 @@
         "name": "久久戸山",
         "altitude": "538",
         "latitude": "35°54'11\"",
-        "longtitude": "139°11'52\"",
+        "longitude": "139°11'52\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=26537",
         "url2": "https://yamap.com/mountains/5357"
       }
@@ -999,7 +999,7 @@
         "name": "高反山",
         "altitude": "532",
         "latitude": "35°53'55\"",
-        "longtitude": "139°12'27\"",
+        "longitude": "139°12'27\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=26059",
         "url2": "https://yamap.com/mountains/5998"
       }
@@ -1018,7 +1018,7 @@
         "name": "堂平山",
         "altitude": "520",
         "latitude": "35°53'48\"",
-        "longtitude": "139°12'12\"",
+        "longitude": "139°12'12\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=20607",
         "url2": "https://yamap.com/mountains/5330"
       }
@@ -1037,7 +1037,7 @@
         "name": "天王山",
         "altitude": "513",
         "latitude": "35°53'23\"",
-        "longtitude": "139°11'54\"",
+        "longitude": "139°11'54\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=4462",
         "url2": "https://yamap.com/mountains/6042"
       }
@@ -1056,7 +1056,7 @@
         "name": "大仁田山",
         "altitude": "505",
         "latitude": "35°50'52\"",
-        "longtitude": "139°12'58\"",
+        "longitude": "139°12'58\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=3587",
         "url2": "https://yamap.com/mountains/16250"
       }
@@ -1075,7 +1075,7 @@
         "name": "大峰山",
         "altitude": "500",
         "latitude": "35°50'44\"",
-        "longtitude": "139°12'48\"",
+        "longitude": "139°12'48\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=37037",
         "url2": "https://yamap.com/mountains/16658"
       }
@@ -1094,7 +1094,7 @@
         "name": "オバケ山",
         "altitude": "500",
         "latitude": "35°56'41\"",
-        "longtitude": "139°12'10\"",
+        "longitude": "139°12'10\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=34011",
         "url2": "https://yamap.com/landmarks/156355"
       }
@@ -1113,7 +1113,7 @@
         "name": "大高山",
         "altitude": "493",
         "latitude": "35°53'53\"",
-        "longtitude": "139°13'58\"",
+        "longitude": "139°13'58\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=3725",
         "url2": "https://yamap.com/mountains/5610"
       }
@@ -1132,7 +1132,7 @@
         "name": "南沢山",
         "altitude": "466",
         "latitude": "35°53'15\"",
-        "longtitude": "139°12'44\"",
+        "longitude": "139°12'44\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=20608",
         "url2": "https://yamap.com/mountains/2480"
       }
@@ -1151,7 +1151,7 @@
         "name": "宝山(後口山)",
         "altitude": "448",
         "latitude": "35°54'47.9\"",
-        "longtitude": "139°14'54.9\"",
+        "longitude": "139°14'54.9\"",
         "url2": "https://yamap.com/landmarks/164211"
       }
     },
@@ -1169,7 +1169,7 @@
         "name": "天覚山",
         "altitude": "445",
         "latitude": "35°53'12\"",
-        "longtitude": "139°14'57\"",
+        "longitude": "139°14'57\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=390",
         "url2": "https://yamap.com/mountains/2900"
       }
@@ -1188,7 +1188,7 @@
         "name": "吉田山",
         "altitude": "445",
         "latitude": "35°54'53\"",
-        "longtitude": "139°12'24\"",
+        "longitude": "139°12'24\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=5846",
         "url2": "https://yamap.com/mountains/5971"
       }
@@ -1207,7 +1207,7 @@
         "name": "本陣山",
         "altitude": "442",
         "latitude": "35°55'28\"",
-        "longtitude": "139°11'38\"",
+        "longitude": "139°11'38\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=4237",
         "url2": "https://yamap.com/mountains/5331"
       }
@@ -1226,7 +1226,7 @@
         "name": "登戸",
         "altitude": "435",
         "latitude": "35°52'29\"",
-        "longtitude": "139°13'15\"",
+        "longitude": "139°13'15\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=5092",
         "url2": "https://yamap.com/landmarks/1735"
       }
@@ -1245,7 +1245,7 @@
         "name": "イモリ山",
         "altitude": "430",
         "latitude": "35°55'04\"",
-        "longtitude": "139°11'39\"",
+        "longitude": "139°11'39\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=4238",
         "url2": "https://yamap.com/mountains/3867"
       }
@@ -1264,7 +1264,7 @@
         "name": "峰ノ山",
         "altitude": "426",
         "latitude": "35°55'45\"",
-        "longtitude": "139°11'14\"",
+        "longitude": "139°11'14\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=59281",
         "url2": "https://yamap.com/mountains/9988"
       }
@@ -1283,7 +1283,7 @@
         "name": "峯山",
         "altitude": "420",
         "latitude": "35°51'43.8\"",
-        "longtitude": "139°12'34.3\"",
+        "longitude": "139°12'34.3\"",
         "url2": "https://yamap.com/mountains/1151"
       }
     },
@@ -1301,7 +1301,7 @@
         "name": "坂石山",
         "altitude": "410",
         "latitude": "35°55'35\"",
-        "longtitude": "139°12'19\"",
+        "longitude": "139°12'19\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=31152",
         "url2": "https://yamap.com/landmarks/164996"
       }
@@ -1320,7 +1320,7 @@
         "name": "天久保山",
         "altitude": "403",
         "latitude": "35°55'57\"",
-        "longtitude": "139°11'49\"",
+        "longitude": "139°11'49\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=25529",
         "url2": "https://yamap.com/mountains/5479"
       }
@@ -1339,7 +1339,7 @@
         "name": "育代山(旭嶽)",
         "altitude": "399",
         "latitude": "35°54'58\"",
-        "longtitude": "139°14'29\"",
+        "longitude": "139°14'29\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=49687",
         "url2": "https://yamap.com/landmarks/164997"
       }
@@ -1358,7 +1358,7 @@
         "name": "湯ノ花山",
         "altitude": "389",
         "latitude": "35°53'21\"",
-        "longtitude": "139°13'01\"",
+        "longitude": "139°13'01\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=20609",
         "url2": "https://yamap.com/mountains/7803"
       }
@@ -1377,7 +1377,7 @@
         "name": "藤光寺山",
         "altitude": "388",
         "latitude": "35°53'18\"",
-        "longtitude": "139°13'34\"",
+        "longitude": "139°13'34\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=20612",
         "url2": "https://yamap.com/mountains/6035"
       }
@@ -1396,7 +1396,7 @@
         "name": "周助山",
         "altitude": "383",
         "latitude": "35°52'14\"",
-        "longtitude": "139°13'39\"",
+        "longitude": "139°13'39\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=5096",
         "url2": "https://yamap.com/mountains/14007"
       }
@@ -1415,7 +1415,7 @@
         "name": "龍谷山",
         "altitude": "382",
         "latitude": "35°52'04\"",
-        "longtitude": "139°12'55\"",
+        "longitude": "139°12'55\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=21384",
         "url2": "https://yamap.com/mountains/1712"
       }
@@ -1434,7 +1434,7 @@
         "name": "中尾山",
         "altitude": "369",
         "latitude": "35°54'56\"",
-        "longtitude": "139°13'30\"",
+        "longitude": "139°13'30\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=26436",
         "url2": "https://yamap.com/landmarks/164998"
       }
@@ -1453,7 +1453,7 @@
         "name": "秋葉山",
         "altitude": "360",
         "latitude": "35°56'18.1\"",
-        "longtitude": "139°11'46.2\"",
+        "longitude": "139°11'46.2\"",
         "url2": "https://yamap.com/landmarks/163693"
       }
     },
@@ -1471,7 +1471,7 @@
         "name": "龍崖山",
         "altitude": "354",
         "latitude": "35°54'20\"",
-        "longtitude": "139°13'41\"",
+        "longitude": "139°13'41\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=26626",
         "url2": "https://yamap.com/mountains/1445"
       }
@@ -1490,7 +1490,7 @@
         "name": "深沢山東峰",
         "altitude": "350",
         "latitude": "35°53'52\"",
-        "longtitude": "139°16'29\"",
+        "longitude": "139°16'29\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=5302",
         "url2": "https://yamap.com/landmarks/85067"
       }
@@ -1509,7 +1509,7 @@
         "name": "加久良山",
         "altitude": "348",
         "latitude": "35°51'42.8\"",
-        "longtitude": "139°12'47.9\"",
+        "longitude": "139°12'47.9\"",
         "url2": "https://yamap.com/mountains/6999"
       }
     },
@@ -1527,7 +1527,7 @@
         "name": "高山",
         "altitude": "330",
         "latitude": "35°52'35\"",
-        "longtitude": "139°14'06\"",
+        "longitude": "139°14'06\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=26008",
         "url2": "https://yamap.com/landmarks/85107"
       }
@@ -1546,7 +1546,7 @@
         "name": "大高谷山",
         "altitude": "325",
         "latitude": "35°51'13\"",
-        "longtitude": "139°15'34\"",
+        "longitude": "139°15'34\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=22246",
         "url2": "https://yamap.com/mountains/14105"
       }
@@ -1565,7 +1565,7 @@
         "name": "ゼンゴ山",
         "altitude": "325",
         "latitude": "35°53'03\"",
-        "longtitude": "139°14'24\"",
+        "longitude": "139°14'24\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=20613",
         "url2": "https://yamap.com/mountains/9990"
       }
@@ -1584,7 +1584,7 @@
         "name": "橋本山",
         "altitude": "320",
         "latitude": "35°54'04\"",
-        "longtitude": "139°15'57\"",
+        "longitude": "139°15'57\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=3319",
         "url2": "https://yamap.com/mountains/3717"
       }
@@ -1603,7 +1603,7 @@
         "name": "虎秀山",
         "altitude": "320",
         "latitude": "35°54'06\"",
-        "longtitude": "139°15'16\"",
+        "longitude": "139°15'16\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=17735",
         "url2": "https://yamap.com/landmarks/164999"
       }
@@ -1622,7 +1622,7 @@
         "name": "深沢山西峰",
         "altitude": "313",
         "latitude": "35°53'47\"",
-        "longtitude": "139°16'23\"",
+        "longitude": "139°16'23\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=17929",
         "url2": "https://yamap.com/landmarks/87939"
       }
@@ -1641,7 +1641,7 @@
         "name": "天神山",
         "altitude": "307",
         "latitude": "35°52'29\"",
-        "longtitude": "139°14'34\"",
+        "longitude": "139°14'34\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=26009",
         "url2": "https://yamap.com/mountains/13338"
       }
@@ -1660,7 +1660,7 @@
         "name": "五常山",
         "altitude": "305",
         "latitude": "35°53'50\"",
-        "longtitude": "139°16'45\"",
+        "longitude": "139°16'45\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=13797",
         "url2": "https://yamap.com/mountains/9993"
       }
@@ -1679,7 +1679,7 @@
         "name": "柏木山",
         "altitude": "303",
         "latitude": "35°51'21\"",
-        "longtitude": "139°16'38\"",
+        "longitude": "139°16'38\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=21326",
         "url2": "https://yamap.com/mountains/1622"
       }
@@ -1698,7 +1698,7 @@
         "name": "釜戸山",
         "altitude": "293",
         "latitude": "35°52'56\"",
-        "longtitude": "139°16'20\"",
+        "longitude": "139°16'20\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=4850",
         "url2": "https://yamap.com/landmarks/83045"
       }
@@ -1717,7 +1717,7 @@
         "name": "堂西山",
         "altitude": "291",
         "latitude": "35°52'21\"",
-        "longtitude": "139°15'02\"",
+        "longitude": "139°15'02\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=26010",
         "url2": "https://yamap.com/mountains/5595"
       }
@@ -1736,7 +1736,7 @@
         "name": "間野富士山",
         "altitude": "290",
         "latitude": "35°50'44\"",
-        "longtitude": "139°15'09\"",
+        "longitude": "139°15'09\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=17167",
         "url2": "https://yamap.com/landmarks/103347"
       }
@@ -1755,7 +1755,7 @@
         "name": "久保山",
         "altitude": "286",
         "latitude": "35°51'57\"",
-        "longtitude": "139°13'21\"",
+        "longitude": "139°13'21\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=47902",
         "url2": "https://yamap.com/mountains/2367"
       }
@@ -1774,7 +1774,7 @@
         "name": "永田山",
         "altitude": "277",
         "latitude": "35°52'23\"",
-        "longtitude": "139°16'54\"",
+        "longitude": "139°16'54\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=5931",
         "url2": "https://yamap.com/landmarks/82657"
       }
@@ -1793,7 +1793,7 @@
         "name": "屋船山",
         "altitude": "277",
         "latitude": "35°53'17\"",
-        "longtitude": "139°15'51\"",
+        "longitude": "139°15'51\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=11849",
         "url2": "https://yamap.com/mountains/20136"
       }
@@ -1812,7 +1812,7 @@
         "name": "長尾根山",
         "altitude": "273",
         "latitude": "35°53'30\"",
-        "longtitude": "139°16'46\"",
+        "longitude": "139°16'46\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=13796",
         "url2": "https://yamap.com/mountains/9992"
       }
@@ -1831,7 +1831,7 @@
         "name": "多峯主山",
         "altitude": "271",
         "latitude": "35°52'05\"",
-        "longtitude": "139°17'52\"",
+        "longitude": "139°17'52\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=4544",
         "url2": "https://yamap.com/mountains/2898"
       }
@@ -1850,7 +1850,7 @@
         "name": "久須美山",
         "altitude": "260",
         "latitude": "35°52'23\"",
-        "longtitude": "139°16'37\"",
+        "longitude": "139°16'37\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=60418",
         "url2": "https://yamap.com/mountains/2286"
       }
@@ -1869,7 +1869,7 @@
         "name": "水晶山",
         "altitude": "250",
         "latitude": "35°53'40\"",
-        "longtitude": "139°16'34\"",
+        "longitude": "139°16'34\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=5303",
         "url2": "https://yamap.com/mountains/4867"
       }
@@ -1888,7 +1888,7 @@
         "name": "愛宕山",
         "altitude": "250",
         "latitude": "35°53'26\"",
-        "longtitude": "139°16'28\"",
+        "longitude": "139°16'28\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=5301",
         "url2": "https://yamap.com/landmarks/85063"
       }
@@ -1907,7 +1907,7 @@
         "name": "龍崖山",
         "altitude": "246",
         "latitude": "35°51'19\"",
-        "longtitude": "139°17'31\"",
+        "longitude": "139°17'31\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=19488",
         "url2": "https://yamap.com/mountains/1445"
       }
@@ -1926,7 +1926,7 @@
         "name": "燧山",
         "altitude": "234",
         "latitude": "35°51'12\"",
-        "longtitude": "139°17'34\"",
+        "longitude": "139°17'34\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=22588",
         "url2": "https://yamap.com/mountains/9141"
       }
@@ -1945,7 +1945,7 @@
         "name": "あさひ山",
         "altitude": "213",
         "latitude": "35°50'54\"",
-        "longtitude": "139°18'03\"",
+        "longitude": "139°18'03\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=52921",
         "url2": "https://yamap.com/landmarks/85526"
       }
@@ -1964,7 +1964,7 @@
         "name": "太郎坊",
         "altitude": "200",
         "latitude": "35°52'02\"",
-        "longtitude": "139°18'24\"",
+        "longitude": "139°18'24\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=56058",
         "url2": "https://yamap.com/landmarks/85943"
       }
@@ -1983,7 +1983,7 @@
         "name": "天覧山",
         "altitude": "195",
         "latitude": "35°51'43\"",
-        "longtitude": "139°18'29\"",
+        "longitude": "139°18'29\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=4543",
         "url2": "https://yamap.com/mountains/16254"
       }
@@ -2002,7 +2002,7 @@
         "name": "神久山(カグ山)",
         "altitude": "168",
         "latitude": "35°51'51\"",
-        "longtitude": "139°18'34\"",
+        "longitude": "139°18'34\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=56057",
         "url2": "https://yamap.com/mountains/2591"
       }

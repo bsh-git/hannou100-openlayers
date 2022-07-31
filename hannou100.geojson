@@ -1292,6 +1292,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          15497787.261086332,
+          4286786.254787399
+        ]
+      },
+      "properties": {
+        "number": 69,
+        "name": "高岩山",
+        "altitude": "410",
+        "latitude": "35°53'57.8\"",
+        "longitude": "139°13'8.37\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           15496260.637958424,
           4290497.318204267
         ]
@@ -1689,6 +1706,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          15501830.941589395,
+          4284037.371750686
+        ]
+      },
+      "properties": {
+        "number": 91,
+        "name": "仙谷山",
+        "altitude": "300",
+        "latitude": "35°52'45.78\"",
+        "longitude": "139°15'19.14\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           15503712.85942542,
           4284427.409790731
         ]
@@ -1765,6 +1799,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          15501114.16775701,
+          4287235.9438042855
+        ]
+      },
+      "properties": {
+        "number": 96,
+        "name": "関山(中嶽)",
+        "altitude": "280",
+        "latitude": "35°54'9.58\"",
+        "longitude": "139°14'55.96\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           15504764.2101718,
           4283168.041762402
         ]
@@ -1796,6 +1847,23 @@
         "longitude": "139°15'51\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=11849",
         "url2": "https://yamap.com/mountains/20136"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15499319.14096797,
+          4285362.871104187
+        ]
+      },
+      "properties": {
+        "number": 99,
+        "name": "柴山",
+        "altitude": "273",
+        "latitude": "35°53'20.51\"",
+        "longitude": "139°13'57.91\""
       }
     },
     {
@@ -1917,6 +1985,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          15500377.913013736,
+          4287671.907952025
+        ]
+      },
+      "properties": {
+        "number": 106,
+        "name": "鷹ノ巣山(糸引山)",
+        "altitude": "246",
+        "latitude": "35°54'21\"",
+        "longitude": "139°14'32.15\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           15506001.093402836,
           4280458.986236045
         ]
@@ -1929,6 +2014,23 @@
         "longitude": "139°17'34\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=22588",
         "url2": "https://yamap.com/mountains/9141"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15503221.198341083,
+          4284698.383782236
+        ]
+      },
+      "properties": {
+        "number": 108,
+        "name": "不動山",
+        "altitude": "220",
+        "latitude": "35°53'3.1\"",
+        "longitude": "139°16'4.1\""
       }
     },
     {

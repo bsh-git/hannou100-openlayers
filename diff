@@ -1,0 +1,272 @@
+-*- mode: compilation; default-directory: "~/Documents/hanno100/hannou100-openlayers/public/" -*-
+Compilation started at Fri Aug  5 11:30:25
+
+diff -ub ../x.json hannou100.geojson 
+--- ../x.json	2022-08-05 11:30:00.242447920 +0900
++++ hannou100.geojson	2022-07-31 10:57:01.792447608 +0900
+@@ -234,16 +234,16 @@
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+-          15488198.942279337,
+-          4281990.092112124
++          15488189.974875914,
++          4281985.131790299
+         ]
+       },
+       "properties": {
+         "number": 13,
+         "name": "Ä¹Èø´Ý»³",
+         "altitude": "958",
+-        "latitude": "35¡ë51'52.13\"",
+-        "longitude": "139¡ë07'58.29\"",
++        "latitude": "35¡ë51'52\"",
++        "longitude": "139¡ë07'58\"",
+         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=3024",
+         "url2": "https://yamap.com/mountains/16248"
+       }
+@@ -291,16 +291,16 @@
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+-          15494136.909450736,
+-          4296080.044244672
++          15494127.014384884,
++          4296073.931317227
+         ]
+       },
+       "properties": {
+         "number": 16,
+         "name": "¥Ä¥Ä¥¸»³",
+         "altitude": "879",
+-        "latitude": "35¡ë58'01.16\"",
+-        "longitude": "139¡ë11'10.32\"",
++        "latitude": "35¡ë58'01\"",
++        "longitude": "139¡ë11'10\"",
+         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=10058",
+         "url2": "https://yamap.com/mountains/8871"
+       }
+@@ -318,7 +318,7 @@
+         "number": 17,
+         "name": "²£¸«»³(Æó»Ò»³)",
+         "altitude": "860",
+-        "latitude": "35¡ë58'10.90\"",
++        "latitude": "35¡ë58'10.9\"",
+         "longitude": "139¡ë10'43\"",
+         "url2": "https://yamap.com/landmarks/99785"
+       }
+@@ -347,16 +347,16 @@
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+-          15491605.627918418,
+-          4280122.4999219375
++          15491591.403761262,
++          4280115.632962557
+         ]
+       },
+       "properties": {
+         "number": 19,
+         "name": "¹õ»³",
+         "altitude": "842",
+-        "latitude": "35¡ë51'03.18\"",
+-        "longitude": "139¡ë09'48.46\"",
++        "latitude": "35¡ë51'03\"",
++        "longitude": "139¡ë09'48\"",
+         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=2167",
+         "url2": "https://yamap.com/landmarks/1726"
+       }
+@@ -488,8 +488,8 @@
+         "number": 26,
+         "name": "¾®ÅÔÄÅÏ©»³",
+         "altitude": "770",
+-        "latitude": "35¡ë57'41.10\"",
+-        "longitude": "139¡ë11'03.40\"",
++        "latitude": "35¡ë57'41.1\"",
++        "longitude": "139¡ë11'3.4\"",
+         "url2": "https://yamap.com/landmarks/159896"
+       }
+     },
+@@ -886,8 +886,8 @@
+         "number": 47,
+         "name": "Æü±Æ»³",
+         "altitude": "555",
+-        "latitude": "35¡ë56'21.90\"",
+-        "longitude": "139¡ë12'34.90\"",
++        "latitude": "35¡ë56'21.9\"",
++        "longitude": "139¡ë12'34.9\"",
+         "url2": "https://yamap.com/mountains/14806"
+       }
+     },
+@@ -942,8 +942,8 @@
+         "number": 50,
+         "name": "¹õ¿ÎÅÄ»³",
+         "altitude": "540",
+-        "latitude": "35¡ë56'44.10\"",
+-        "longitude": "139¡ë12'33.60\"",
++        "latitude": "35¡ë56'44.1\"",
++        "longitude": "139¡ë12'33.6\"",
+         "url2": "https://yamap.com/landmarks/163618"
+       }
+     },
+@@ -1150,8 +1150,8 @@
+         "number": 61,
+         "name": "Êõ»³(¸å¸ý»³)",
+         "altitude": "448",
+-        "latitude": "35¡ë54'47.90\"",
+-        "longitude": "139¡ë14'54.90\"",
++        "latitude": "35¡ë54'47.9\"",
++        "longitude": "139¡ë14'54.9\"",
+         "url2": "https://yamap.com/landmarks/164211"
+       }
+     },
+@@ -1160,16 +1160,16 @@
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+-          15501144.47139617,
+-          4285040.736628144
++          15501146.32672102,
++          4285038.064936585
+         ]
+       },
+       "properties": {
+         "number": 62,
+         "name": "Å·³Ð»³",
+         "altitude": "445",
+-        "latitude": "35¡ë53'12.07\"",
+-        "longitude": "139¡ë14'56.94\"",
++        "latitude": "35¡ë53'12\"",
++        "longitude": "139¡ë14'57\"",
+         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=390",
+         "url2": "https://yamap.com/mountains/2900"
+       }
+@@ -1282,8 +1282,8 @@
+         "number": 68,
+         "name": "Ê÷»³",
+         "altitude": "420",
+-        "latitude": "35¡ë51'43.80\"",
+-        "longitude": "139¡ë12'34.30\"",
++        "latitude": "35¡ë51'43.8\"",
++        "longitude": "139¡ë12'34.3\"",
+         "url2": "https://yamap.com/mountains/1151"
+       }
+     },
+@@ -1300,8 +1300,8 @@
+         "number": 69,
+         "name": "¹â´ä»³",
+         "altitude": "410",
+-        "latitude": "35¡ë53'57.80\"",
+-        "longitude": "139¡ë13'08.37\""
++        "latitude": "35¡ë53'57.8\"",
++        "longitude": "139¡ë13'8.37\""
+       }
+     },
+     {
+@@ -1469,8 +1469,8 @@
+         "number": 78,
+         "name": "½©ÍÕ»³",
+         "altitude": "360",
+-        "latitude": "35¡ë56'18.10\"",
+-        "longitude": "139¡ë11'46.20\"",
++        "latitude": "35¡ë56'18.1\"",
++        "longitude": "139¡ë11'46.2\"",
+         "url2": "https://yamap.com/landmarks/163693"
+       }
+     },
+@@ -1525,8 +1525,8 @@
+         "number": 81,
+         "name": "²Ãµ×ÎÉ»³",
+         "altitude": "348",
+-        "latitude": "35¡ë51'42.80\"",
+-        "longitude": "139¡ë12'47.90\"",
++        "latitude": "35¡ë51'42.8\"",
++        "longitude": "139¡ë12'47.9\"",
+         "url2": "https://yamap.com/mountains/6999"
+       }
+     },
+@@ -1611,16 +1611,16 @@
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+-          15501740.958334338,
+-          4287109.586183784
++          15501733.846255759,
++          4287099.2791314535
+         ]
+       },
+       "properties": {
+         "number": 86,
+         "name": "¸×½¨»³",
+         "altitude": "320",
+-        "latitude": "35¡ë54'06.27\"",
+-        "longitude": "139¡ë15'16.23\"",
++        "latitude": "35¡ë54'06\"",
++        "longitude": "139¡ë15'16\"",
+         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=17735",
+         "url2": "https://yamap.com/landmarks/164999"
+       }
+@@ -1630,16 +1630,16 @@
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+-          15503824.488137024,
+-          4286370.5571137685
++          15503805.625667747,
++          4286373.992566631
+         ]
+       },
+       "properties": {
+         "number": 87,
+         "name": "¿¼Âô»³À¾Êö",
+         "altitude": "313",
+-        "latitude": "35¡ë53'46.91\"",
+-        "longitude": "139¡ë16'23.61\"",
++        "latitude": "35¡ë53'47\"",
++        "longitude": "139¡ë16'23\"",
+         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=17929",
+         "url2": "https://yamap.com/landmarks/87939"
+       }
+@@ -1807,7 +1807,7 @@
+         "number": 96,
+         "name": "´Ø»³(ÃæÖÖ)",
+         "altitude": "280",
+-        "latitude": "35¡ë54'09.58\"",
++        "latitude": "35¡ë54'9.58\"",
+         "longitude": "139¡ë14'55.96\""
+       }
+     },
+@@ -1816,16 +1816,16 @@
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+-          15504770.394587956,
+-          4283180.6347213695
++          15504764.2101718,
++          4283168.041762402
+         ]
+       },
+       "properties": {
+         "number": 97,
+         "name": "±ÊÅÄ»³",
+         "altitude": "277",
+-        "latitude": "35¡ë52'23.33\"",
+-        "longitude": "139¡ë16'54.20\"",
++        "latitude": "35¡ë52'23\"",
++        "longitude": "139¡ë16'54\"",
+         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=5931",
+         "url2": "https://yamap.com/landmarks/82657"
+       }
+@@ -2029,8 +2029,8 @@
+         "number": 108,
+         "name": "ÉÔÆ°»³",
+         "altitude": "220",
+-        "latitude": "35¡ë53'03.10\"",
+-        "longitude": "139¡ë16'04.10\""
++        "latitude": "35¡ë53'3.1\"",
++        "longitude": "139¡ë16'4.1\""
+       }
+     },
+     {
+
+Compilation exited abnormally with code 1 at Fri Aug  5 11:30:25

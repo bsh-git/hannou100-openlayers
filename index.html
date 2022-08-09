@@ -10,8 +10,8 @@
     
 
     <title>飯能百名山</title>
-    <script type="module" crossorigin src="/hannou100-openlayers/assets/index.121815ad.js"></script>
-    <link rel="stylesheet" href="/hannou100-openlayers/assets/index.8cd2383a.css">
+    <script type="module" crossorigin src="/hannou100-openlayers/assets/index.1c66916b.js"></script>
+    <link rel="stylesheet" href="/hannou100-openlayers/assets/index.5b892afd.css">
   </head>
   <body>
     <div class="app">
@@ -34,7 +34,21 @@
 	  </div>
 	</div>
         <div class="content">
-          <div class="fixed-content">
+          <div class="fixed-content" id="controls">
+	    <span style="float:left"><button id="savetolocal">保存</button>
+	      <span class='tooltipmark' id='hintforsave' data-placement='right'
+		    title='登頂済マークをブラウザのローカルストレージに保存します'>?</span>
+	    </span>
+	    <span style="float:left">
+	      <span><a href='' id="sharelink">シェア用URL</a></span>
+	      <span class='tooltipmark' id='hintforurl' data-placement='right'
+		    title='このURLにアクセスすると、登頂済マークを再現します'>?</span>
+	    </span>
+	    <span id='backtolocal' hidden style="float:left"><a href=''>ローカルデータに戻る</a>
+	      <span class='tooltipmark' id='hintforback' data-placement='right'
+		    title='ローカルストレージに保存された登頂済マークを表示します'>?</span>
+	    </span>
+	    <span style="float:left">登頂済: <span id='visitedcount'>0/112</span></span>
 	    <span></span>
 	    <span id="coordinate" style="float:right; margin: 10px"></span>
 	    <span id="mtname" style="float:right; margin: 10px"></span>
@@ -52,5 +66,24 @@
 
     </div>
     <div id="popup"></div>
+
+    <!-- dialog -->
+    <div class="modal fade" id="saveConfirmDialog" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+      <div class="modal-dialog">
+	<div class="modal-content">
+	  <div class="modal-header">
+            <h5 class="modal-title" id="exampleModalLabel">保存</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><span>&times;</span></button>
+	  </div>
+	  <div class="modal-body">
+	    シェア用URLのデータでローカルストレージの登頂済マークを上書きしますか？
+	  </div>
+	  <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">キャンセル</button>
+            <button type="button" class="btn btn-primary">保存</button>
+	  </div>
+	</div>
+      </div>
+    </div>
   </body>
 </html>

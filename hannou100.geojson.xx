@@ -6,8 +6,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15484695.598682126,
-          4282117.402825753
+          15484695.597307954,
+          4282117.401452959
         ]
       },
       "properties": {
@@ -44,8 +44,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15485500.576136252,
-          4283452.659959625
+          15485500.576375756,
+          4283452.661456024
         ]
       },
       "properties": {
@@ -63,8 +63,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15486848.973088346,
-          4286206.776548505
+          15486848.973906698,
+          4286206.775065881
         ]
       },
       "properties": {
@@ -82,8 +82,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15486649.520217665,
-          4286968.7566595655
+          15486649.520301273,
+          4286968.758337112
         ]
       },
       "properties": {
@@ -101,8 +101,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15486150.290876677,
-          4282104.2652798295
+          15486150.28949156,
+          4282104.2640826935
         ]
       },
       "properties": {
@@ -139,8 +139,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15487905.953870103,
-          4291933.571081646
+          15487905.952471778,
+          4291933.572455802
         ]
       },
       "properties": {
@@ -196,8 +196,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15488277.390054427,
-          4291384.181150283
+          15488277.391598264,
+          4291384.182618689
         ]
       },
       "properties": {
@@ -215,8 +215,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15490673.213159738,
-          4281187.022640591
+          15490673.212771328,
+          4281187.02255121
         ]
       },
       "properties": {
@@ -253,8 +253,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15489784.632705925,
-          4281754.327922549
+          15489784.63276594,
+          4281754.3266993575
         ]
       },
       "properties": {
@@ -366,8 +366,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15494072.272261295,
-          4295498.635719998
+          15494072.273025291,
+          4295498.636192047
         ]
       },
       "properties": {
@@ -385,8 +385,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15491179.212424519,
-          4290023.056178894
+          15491158.4946304,
+          4290000.9091825625
         ]
       },
       "properties": {
@@ -423,8 +423,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15495872.125411699,
-          4295505.801613497
+          15495872.126751136,
+          4295505.803220155
         ]
       },
       "properties": {
@@ -459,15 +459,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15490139.348290311,
-          4284486.946788613
+          15490139.349231148,
+          4284486.943343232
         ]
       },
       "properties": {
         "number": 25,
         "name": "大ヨケの頭",
         "altitude": "771",
-        "latitude": "35°52'57.5600\"",
+        "latitude": "35°52'57.5599\"",
         "longitude": "139°9'1.0415\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=3637",
         "url2": "https://yamap.com/landmarks/84309"
@@ -496,8 +496,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15491270.741783617,
-          4290954.034526448
+          15491251.26087273,
+          4290917.374313978
         ]
       },
       "properties": {
@@ -534,8 +534,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15490262.364132706,
-          4285832.952082319
+          15490262.36345289,
+          4285832.95264692
         ]
       },
       "properties": {
@@ -553,8 +553,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15491179.60847213,
-          4285666.937484826
+          15491179.608227152,
+          4285666.938158751
         ]
       },
       "properties": {
@@ -610,8 +610,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15491442.360756857,
-          4288907.148153914
+          15491442.359331923,
+          4288907.148078595
         ]
       },
       "properties": {
@@ -675,8 +675,8 @@
         "number": 36,
         "name": "愛宕山",
         "altitude": "650",
-        "latitude": "35°54'25\"",
-        "longitude": "139°11'06\"",
+        "latitude": "35°54'25.06\"",
+        "longitude": "139°11'08.28\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=59390",
         "url2": "https://yamap.com/landmarks/76952"
       }
@@ -762,8 +762,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15494609.398844989,
-          4287644.421079784
+          15494590.845596528,
+          4287633.73175934
         ]
       },
       "properties": {
@@ -857,8 +857,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15494759.011187296,
-          4284521.581969654
+          15494759.012240618,
+          4284521.582029078
         ]
       },
       "properties": {
@@ -876,8 +876,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15496753.539894111,
-          4292281.120140003
+          15496753.539018199,
+          4292281.122003343
         ]
       },
       "properties": {
@@ -1141,7 +1141,7 @@
         "type": "Point",
         "coordinates": [
           15501160.61230618,
-          4288841.460200879
+          4288841.457598246
         ]
       },
       "properties": {
@@ -1366,14 +1366,14 @@
         "type": "Point",
         "coordinates": [
           15497582.40391958,
-          4285401.800798812
+          4285401.797123738
         ]
       },
       "properties": {
         "number": 73,
         "name": "湯ノ花山",
         "altitude": "389",
-        "latitude": "35°53'21.5300\"",
+        "latitude": "35°53'21.5299\"",
         "longitude": "139°13'1.7451\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=20609",
         "url2": "https://yamap.com/mountains/7803"
@@ -1909,8 +1909,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15504242.245448306,
-          4283173.7658328535
+          15504238.534798611,
+          4283168.041762402
         ]
       },
       "properties": {
@@ -2096,16 +2096,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15507871.879289778,
-          4281982.079285682
+          15507856.418249393,
+          4281946.9755441295
         ]
       },
       "properties": {
         "number": 112,
         "name": "神久山(カグ山)",
         "altitude": "168",
-        "latitude": "35°51'51.92\"",
-        "longitude": "139°18'34.50\"",
+        "latitude": "35°51'51。92\"",
+        "longitude": "139°18'34。50\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=56057",
         "url2": "https://yamap.com/mountains/2591"
       }

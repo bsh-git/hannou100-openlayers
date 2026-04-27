@@ -385,16 +385,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15491158.4946304,
-          4290000.9091825625
+          15491179.212424519,
+          4290023.056178894
         ]
       },
       "properties": {
         "number": 21,
         "name": "古御岳",
         "altitude": "830",
-        "latitude": "35°55'22\"",
-        "longitude": "139°09'34\"",
+        "latitude": "35°55'22.58\"",
+        "longitude": "139°09'34.67\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=3589",
         "url2": "https://yamap.com/mountains/15096"
       }
@@ -496,16 +496,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15491251.26087273,
-          4290917.374313978
+          15491270.741783617,
+          4290954.034526448
         ]
       },
       "properties": {
         "number": 27,
         "name": "五輪山",
         "altitude": "770",
-        "latitude": "35°55'46\"",
-        "longitude": "139°09'37\"",
+        "latitude": "35°55'46.96\"",
+        "longitude": "139°09'37.63\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=7709",
         "url2": "https://yamap.com/mountains/15095"
       }
@@ -762,16 +762,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15494590.845596528,
-          4287633.73175934
+          15494609.398844989,
+          4287644.421079784
         ]
       },
       "properties": {
         "number": 41,
         "name": "阿宇山",
         "altitude": "620",
-        "latitude": "35°54'20\"",
-        "longitude": "139°11'25\"",
+        "latitude": "35°54'20.28\"",
+        "longitude": "139°11'25.60\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=60009",
         "url2": "https://yamap.com/mountains/14813"
       }
@@ -1909,16 +1909,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15504238.534798611,
-          4283168.041762402
+          15504242.245448306,
+          4283173.7658328535
         ]
       },
       "properties": {
         "number": 102,
         "name": "久須美山",
         "altitude": "260",
-        "latitude": "35°52'23\"",
-        "longitude": "139°16'37\"",
+        "latitude": "35°52'23.15\"",
+        "longitude": "139°16'37.12\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=60418",
         "url2": "https://yamap.com/mountains/2286"
       }
@@ -2096,16 +2096,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15507856.418249393,
-          4281946.9755441295
+          15507871.879289778,
+          4281982.079285682
         ]
       },
       "properties": {
         "number": 112,
         "name": "神久山(カグ山)",
         "altitude": "168",
-        "latitude": "35°51'51\"",
-        "longitude": "139°18'34\"",
+        "latitude": "35°51'51.92\"",
+        "longitude": "139°18'34.50\"",
         "url1": "https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=56057",
         "url2": "https://yamap.com/mountains/2591"
       }
